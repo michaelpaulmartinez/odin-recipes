@@ -1,0 +1,33 @@
+* {
+    background-color: #dce7fa;
+}
+
+
+.headerTop {
+    text-align: center;
+    font-size: 44px;
+    background-color: #cdddf7;
+    color: #323a47;
+}
+
+.recipesList {
+    text-align: center;
+    color: #323a47;
+}
+
+imageOne {
+    height: auto;
+    width: 2000px;
+    align-items: center;
+}
+
+img {
+    height: auto;
+    width: 600px;
+}
+
+imageTwo {
+    height: auto;
+    width: 400px;
+
+}
